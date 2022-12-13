@@ -2,12 +2,8 @@
 
 
 
-## Galleria de Imagen en Card con Paginado
+## Crud hecho en Firebase.
 
 ### Importante
 
-> Se debe agregar en el package.json en la parte de los scripts, para poder obtener los datos de json-server y ejecutarlo en una ventana de comandos o termninal, por separado.
-
-`    "server": "json-server --watch ./src/assets/data/mock_data_gallery.json --port 3004"  `
-
-> NOTA: Si ya esta no hace falta agregarlo.
+Se debe hacer npm i para crear un nuevo node_modules y para correr el proyecto indicar en la terminal: npm run dev, únicamente.
